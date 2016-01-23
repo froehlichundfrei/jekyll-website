@@ -1,6 +1,6 @@
 # About this Repo
 
-This is the Fröhlich und Frei Docker Image for jekyll based website development. You can find the can use the automated build version from [Docker Hub](https://hub.docker.com/r/froehlichundfrei/jekyll-website/).
+This is the Fröhlich und Frei Docker Image for jekyll based website development. You can find the prebuilt version on [Docker Hub](https://hub.docker.com/r/froehlichundfrei/jekyll-website/).
 
 It is based on the official docker images for [ruby 2.3](https://github.com/docker-library/ruby/blob/master/2.3/Dockerfile) and [node 4.2.6](https://github.com/nodejs/docker-node/blob/master/4.2/Dockerfile).
 
