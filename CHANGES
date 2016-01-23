@@ -1,0 +1,9 @@
+v0.2 (2016-01-23)
+
+  * updated ruby to version 2.3.0
+  * updated node to version 4.2.6
+  * add makefile
+
+v0.1
+
+  * Initial release
